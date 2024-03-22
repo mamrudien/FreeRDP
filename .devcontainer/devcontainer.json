@@ -3,6 +3,7 @@
   "features": {
     "ghcr.io/devcontainers/features/java:1": {
       "installGradle": "true"
-    }
+    },
+    "ghcr.io/mamrudien/devcontainers/android-sdk:latest": {}
   }
 }
