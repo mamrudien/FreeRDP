@@ -5,6 +5,6 @@
       "version": "none",
       "installGradle": "true"
     },
-    "ghcr.io/mamrudien/devcontainers/android-sdk:latest": {}
+    "ghcr.io/mamrudien/devcontainers/android-sdk-feature:latest": {}
   }
 }
